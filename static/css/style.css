@@ -24,12 +24,11 @@ output:
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #E8DBC5;
+  background: #eee;
   color: #000;
   padding: 5px;
-  border-radius: 5px;
-  border-style: dotted;
-  border-width: 1px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
   margin-bottom: 20px;
 }
 
